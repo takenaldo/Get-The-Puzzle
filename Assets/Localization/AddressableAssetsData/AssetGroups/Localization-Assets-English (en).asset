@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5846672c792e06740bd7f41dc18557ad
+  m_SerializeEntries:
+  - m_GUID: f0d6a6de92ab1e64097caedf58cc879e
+    m_Address: LEVELS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 1bd58758ee4ac2e43a3f17ea31fa1e92
+    m_Address: SETTINGS (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 52682515cc785124984366acba899d67
+    m_Address: ACHIEVEMENTS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 373dd15398c19774c83ede0e9c205e49
+    m_Address: LEVEL COMPLETE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: ee00007ade96d8142aefd64ab893c7d5
+    m_Address: Group 1 (4)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: b401676136f3d6a40b1dc72866380000
+    m_Address: Group 1 (2)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 4b26a66a2a68881449c2b488b50e1149
+    m_Address: GAMES PLAYED (1)
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: cd2719d071df255468a33977c3ab41de
+    m_Address: LEVELS COMPLETE
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 038fd0028a9c85e4f92a04d6525d5137, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a6f77dd41d92b774a90e1e9600ad103d, type: 2}
+    - {fileID: 11400000, guid: 4ace848c0c018054c923640648e7e81a, type: 2}

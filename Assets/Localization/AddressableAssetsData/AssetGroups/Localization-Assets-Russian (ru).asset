@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Russian (ru)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Russian (ru)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d032af23abc839d4f828d0748903bc60
+  m_SerializeEntries:
+  - m_GUID: 973974878051398488b908505d431da0
+    m_Address: "N\xCDVEIS"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: faa804d955a335b48a973551af9a74f5
+    m_Address: "INSTALA\xC7\xD5ES"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 4f9ba993c674fc74d9e99f53768597a3
+    m_Address: ACHIEVEMENTOS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: f05bd86440551284ea7d2cf59bbb1cc4
+    m_Address: "N\xCDVEL COMPLETO"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 5a11debeb5b72644ba4b5189d5551fb7
+    m_Address: next level Br
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 948509af27b7ae74b87ff0fe3b741e0c
+    m_Address: play brz
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 36649085b9b74fd40bbd863c6e867c7f
+    m_Address: JOGOS JOGADOS
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  - m_GUID: 12cb8dfa88847a543b36172e0fa0244b
+    m_Address: "N\xCDVEIS COMPLETOS"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 038fd0028a9c85e4f92a04d6525d5137, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e05a43b97c2eea469b4e5730f6d663f, type: 2}
+    - {fileID: 11400000, guid: 63023231831d5e8428ed704d2aa3f6d7, type: 2}
